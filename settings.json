@@ -1,0 +1,5 @@
+{
+	"access-token": "{{ ACCESS TOKEN HERE }}",
+	"local-download-path": "./",
+	"dropbox-download-dir": ""
+}
